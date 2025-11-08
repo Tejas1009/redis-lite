@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.tejas.redis.AppTest" time="0.025" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/t0r078f/code/coding-challenges/redis-cli/redis-lite/target/test-classes:/Users/t0r078f/code/coding-challenges/redis-cli/redis-lite/target/classes:/Users/t0r078f/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/t0r078f/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar:/Users/t0r078f/.m2/repository/ch/qos/logback/logback-classic/1.4.11/logback-classic-1.4.11.jar:/Users/t0r078f/.m2/repository/ch/qos/logback/logback-core/1.4.11/logback-core-1.4.11.jar:"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="http://www.azul.com/"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/t0r078f/code/coding-challenges/redis-cli/redis-lite/target/surefire/surefirebooter-20251108120722499_3.jar /Users/t0r078f/code/coding-challenges/redis-cli/redis-lite/target/surefire 2025-11-08T12-07-22_232-jvmRun1 surefire-20251108120722499_1tmp surefire_0-20251108120722499_2tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|wal-mart.com|*.wal-mart.com|wamnetNAD|*.wamnetNAD|walmart.com|*.walmart.com|wmlink|*.wmlink|walmartlabs.com|*.walmartlabs.com"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/t0r078f/code/coding-challenges/redis-cli/redis-lite/target/test-classes:/Users/t0r078f/code/coding-challenges/redis-cli/redis-lite/target/classes:/Users/t0r078f/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/t0r078f/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar:/Users/t0r078f/.m2/repository/ch/qos/logback/logback-classic/1.4.11/logback-classic-1.4.11.jar:/Users/t0r078f/.m2/repository/ch/qos/logback/logback-core/1.4.11/logback-core-1.4.11.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/t0r078f"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-04-16"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/t0r078f/code/coding-challenges/redis-cli/redis-lite"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="surefire.real.class.path" value="/Users/t0r078f/code/coding-challenges/redis-cli/redis-lite/target/surefire/surefirebooter-20251108120722499_3.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|wal-mart.com|*.wal-mart.com|wamnetNAD|*.wamnetNAD|walmart.com|*.walmart.com|wmlink|*.wmlink|walmartlabs.com|*.walmartlabs.com"/>
+    <property name="java.runtime.version" value="17.0.11+9-LTS"/>
+    <property name="user.name" value="t0r078f"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="15.7"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Zulu17.50+19-CA"/>
+    <property name="localRepository" value="/Users/t0r078f/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="http://www.azul.com/support/"/>
+    <property name="java.io.tmpdir" value="/var/folders/q8/xtnlldtn37v1_j5d6vt9f1440000gp/T/"/>
+    <property name="java.version" value="17.0.11"/>
+    <property name="user.dir" value="/Users/t0r078f/code/coding-challenges/redis-cli/redis-lite"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/t0r078f/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="java.vm.version" value="17.0.11+9-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|wal-mart.com|*.wal-mart.com|wamnetNAD|*.wamnetNAD|walmart.com|*.walmart.com|wmlink|*.wmlink|walmartlabs.com|*.walmartlabs.com"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testApp" classname="com.tejas.redis.AppTest" time="0.002"/>
+</testsuite>
